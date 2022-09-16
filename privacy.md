@@ -25,7 +25,7 @@ Please refer to the Example Stored Data section for exactly what this involves.
 
 ## Usage of Information
 
-These data are only used to set some system. Please refer to the Example Stored Data section for exactly what this involves.
+These data are only used to set some systems. Please refer to the Example Stored Data section for exactly what this involves.
 
 ## Information Lifespan
 
