@@ -19,7 +19,7 @@ For the purposes of this Privacy Policy:
 
 The only information stored is:
 - User Id, server Id, channel Id, role Id, message Id
-- Some messages, such as the content of the message, the time it was sent, and the author of the message for special systems
+- Some messages, such as the time it was sent, and the user Id of the author of the message for special systems
 
 Please refer to the Example Stored Data section for exactly what this involves.
 
